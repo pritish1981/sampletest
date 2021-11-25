@@ -1,1 +1,1 @@
-console.log("welocme to sample test project");
+console.log("Sample test project");
